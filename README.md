@@ -9,3 +9,8 @@ This repository was created to store all the exercises I am doing from the JavaS
 - .getAttribute
 - .e.type (identify the event type)
 - .currentTime = 0 (restart audio file)
+
+## 02 - CSS and JS Clock
+- .clearInterval()
+- Transform-origin
+- Audio only plays after there is an interaction with the page. It doesn't initiates with the setInterval alone
