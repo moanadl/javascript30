@@ -14,3 +14,6 @@ This repository was created to store all the exercises I am doing from the JavaS
 - .clearInterval()
 - Transform-origin
 - Audio only plays after there is an interaction with the page. It doesn't initiates with the setInterval alone
+
+## 03 - Playing with CSS Variables and JS
+- Watching the solution shown in the video I've discovered the document.documentElement, although I haven't used it in my solution.
