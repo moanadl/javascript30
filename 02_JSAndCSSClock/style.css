@@ -43,6 +43,7 @@ body {
     height: 6px;
     width: 50%;
     background: black;
+    transform: rotate(90deg);
     transform-origin: right; /* Rotates the element from its right extremity */
 }
 

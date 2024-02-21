@@ -1,4 +1,4 @@
-// ----- Importing the elements (<div> and <audio> with the attribute [data-key] -----
+// ----- Importing the elements (<div> and <audio> with the attribute [data-key]) -----
 const dataKeys = document.querySelectorAll('[data-key]');
 
 // ----- Creating separated arrays for <div> and <audios> -----
