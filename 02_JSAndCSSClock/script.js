@@ -43,7 +43,7 @@ function rotateClock () {
 }
 
 
-// ---------- CLOCK NO IN SYNC WITH CURRENT TIME (TIMER) ----------
+// ---------- CLOCK NOT IN SYNC WITH CURRENT TIME (TIMER) ----------
 
 // // ----- Setting the initial angles of rotation to 0 -----
 // let sec = 0;
