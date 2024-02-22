@@ -17,3 +17,8 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 03 - Playing with CSS Variables and JS
 - Watching the solution shown in the video I've discovered the document.documentElement, although I haven't used it in my solution.
+
+## 04 - Array cardio day 1
+- Better understanding of sort() and reduce()
+- localeCompare() with sort()
+- console.table()
