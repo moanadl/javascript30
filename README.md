@@ -12,7 +12,7 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 02 - CSS and JS Clock
 - .clearInterval()
-- Transform-origin
+- transform-origin
 - Audio only plays after there is an interaction with the page. It doesn't initiates with the setInterval alone
 
 ## 03 - Playing with CSS Variables and JS
@@ -22,3 +22,8 @@ This repository was created to store all the exercises I am doing from the JavaS
 - Better understanding of sort() and reduce()
 - localeCompare() with sort()
 - console.table()
+
+## 05 - Flex panels image gallery
+- transform: translateY()
+- flex-basis
+- transitionend event
