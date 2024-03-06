@@ -32,3 +32,8 @@ This repository was created to store all the exercises I am doing from the JavaS
 - fetch()
 - New RegExp()
 - .match()
+
+## 07 - Array cardio day 2
+- new Date().getFullYear();
+- some()
+- every()
