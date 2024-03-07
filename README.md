@@ -37,3 +37,6 @@ This repository was created to store all the exercises I am doing from the JavaS
 - new Date().getFullYear();
 - some()
 - every()
+
+## 08 - Fun with HTML5 Canvas
+- HTML5 Canvas and all its methods
