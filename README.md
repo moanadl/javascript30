@@ -40,3 +40,14 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 08 - Fun with HTML5 Canvas
 - HTML5 Canvas and all its methods
+
+## 09 - Dev Tools Domination
+- console.log() styled
+- console.warn()
+- console.error()
+- console.info()
+- console.assert()
+- console.clear()
+- console.groupCollapsed() / console.groupEnd()
+- console.count()
+- console.time() / console.timeEnd()
