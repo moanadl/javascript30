@@ -51,3 +51,6 @@ This repository was created to store all the exercises I am doing from the JavaS
 - console.groupCollapsed() / console.groupEnd()
 - console.count()
 - console.time() / console.timeEnd()
+
+## 10 - Hold shift and check checkboxes
+- Work with events related to hold a key
