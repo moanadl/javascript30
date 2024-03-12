@@ -61,3 +61,6 @@ This repository was created to store all the exercises I am doing from the JavaS
 - video.playbackRate
 - .offsetX
 - .offsetWidth
+
+## 12 - Key sequence detection
+- .shift()
