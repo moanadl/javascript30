@@ -64,3 +64,8 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 12 - Key sequence detection
 - .shift()
+
+## 13 - Slide in on sroll
+- .scrollY
+- .innerHeight
+- Debounce functions
