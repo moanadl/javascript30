@@ -54,3 +54,10 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 10 - Hold shift and check checkboxes
 - Work with events related to hold a key
+
+## 11 - Custom video player
+- Symbols using UTF-8 decimal form
+- video.volume
+- video.playbackRate
+- .offsetX
+- .offsetWidth
