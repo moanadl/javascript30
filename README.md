@@ -69,3 +69,6 @@ This repository was created to store all the exercises I am doing from the JavaS
 - .scrollY
 - .innerHeight
 - Debounce functions
+
+## 14 - JavaScript references VS copying
+- .assign()
