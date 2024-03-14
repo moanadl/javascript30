@@ -72,3 +72,6 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 14 - JavaScript references VS copying
 - .assign()
+
+## 15 - LocalStorage
+- Event delegation
