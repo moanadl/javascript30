@@ -75,3 +75,6 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 15 - LocalStorage
 - Event delegation
+
+## 16 - Mouse move shadow
+- contenteditable
