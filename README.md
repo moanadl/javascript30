@@ -78,3 +78,6 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 16 - Mouse move shadow
 - contenteditable
+
+## 17 - Sort without articles
+- .trim()
