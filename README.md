@@ -81,3 +81,6 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 17 - Sort without articles
 - .trim()
+
+## 18 - Adding up times with Reduce
+- Destructuring assignment
