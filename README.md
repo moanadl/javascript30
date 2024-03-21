@@ -92,3 +92,8 @@ This repository was created to store all the exercises I am doing from the JavaS
 - Give preference to add styles to class and add class to element than to add styles with JS
 - position: fixed
 - transform: scale()
+
+# 27 - Click and drag
+- mouseleave event
+- .scrollLeft()
+
