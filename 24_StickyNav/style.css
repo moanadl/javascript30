@@ -1,0 +1,103 @@
+html {
+	box-sizing: border-box;
+	font-family: 'helvetica neue';
+	font-size: 20px;
+	font-weight: 200;
+	background: #eeeeee;
+}
+
+body {
+  	margin: 0;
+}
+
+*, *:before, *:after {
+  	box-sizing: inherit;
+}
+
+.site-wrap {
+	max-width: 700px;
+	margin: 70px auto;
+	padding: 40px;
+	background: white;
+	box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.05);
+	text-align: justify;
+	transform: scale(0.98);
+	transition: transform 0.5s;
+}
+
+/* Increasing the size of the text area */
+body.fixed-nav .site-wrap {
+	transform: scale(1);
+}
+
+header {
+	display: flex;
+		align-items: center;
+		justify-content: center;
+	height: 50vh;
+	text-align: center;
+	background: url(https://source.unsplash.com/GKN6rpDr0EI/960x640) bottom center no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	color: white;
+	font-size: 7vw;
+	text-shadow: 3px 4px 0 rgba(0,0,0,0.2);
+}
+
+nav {
+	position: relative;
+		top: 0;
+		z-index: 1;
+	width: 100%;
+	background: black;
+	transition: all 0.5s;
+}
+
+/* When the class 'fixed-nav' is added to the body, the nav will be fixed */
+body.fixed-nav nav {
+	position: fixed;
+}
+
+nav ul {
+	display: flex;
+	margin: 0;
+	padding:0;
+	list-style: none;
+}
+
+nav li {
+	display: flex;
+		align-items: center;
+		flex: 1;
+		justify-content: center;
+	text-align: center;
+}
+
+li.logo {
+	max-width: 0;
+	overflow: hidden;
+	background: white;
+	transition: all .5s;
+	font-weight: 600;
+	font-size: 30px;
+}
+
+/* When the class 'fixed-nav' is added to the body, the hidden logo will be shown */
+body.fixed-nav li.logo {
+	max-width: 100%;
+}
+
+li.logo a {
+  	color: black;
+}
+
+nav a {
+	text-decoration: none;
+	padding: 20px;
+	display: inline-block;
+	color: white;
+	transition: all 0.2s;
+	text-transform: uppercase;
+}

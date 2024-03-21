@@ -87,3 +87,8 @@ This repository was created to store all the exercises I am doing from the JavaS
 
 ## 22 - Follow along link highlighter
 - .getBoundingClientRect()
+
+## 24 - Sticky nav
+- Give preference to add styles to class and add class to element than to add styles with JS
+- position: fixed
+- transform: scale()
