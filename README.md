@@ -93,7 +93,13 @@ This repository was created to store all the exercises I am doing from the JavaS
 - position: fixed
 - transform: scale()
 
-# 27 - Click and drag
+## 26 - Stripe follow along nav
+- Use && to do a task if first one is returns true
+
+## 27 - Click and drag
 - mouseleave event
 - .scrollLeft()
 
+## 29 - Countdown timer
+- Access form's children by its name (ex.: this.name.value)
+- Access value of data attribute by "dataset.[attribute's name]"
