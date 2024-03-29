@@ -100,10 +100,13 @@ This repository was created to store all the exercises I am doing from the JavaS
 - mouseleave event
 - .scrollLeft()
 
+## 28 - Video speed controller
+-  All strategies/methods used in this challenge were already covered in the past challenges
+
 ## 29 - Countdown timer
 - Access form's children by its name (ex.: this.name.value)
 - Access value of data attribute by "dataset.[attribute's name]"
 
 ## 30 - Whack a mole
 - It hasn't show me any new tools/methods, but it has taken a lot of time for me to understand how I could make the game work and a lot of attention to details.
-- It was quite a challenge.
+- It was quite a challenge
