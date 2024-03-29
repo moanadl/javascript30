@@ -93,6 +93,11 @@ This repository was created to store all the exercises I am doing from the JavaS
 - position: fixed
 - transform: scale()
 
+## 25 - Event capture, propagation, bubbling and once
+- Understanding the default order of event capture and event trigger: the browsert captures the events from top down and triggers them from down top
+- Event option 'capture'
+- Event option 'once'
+
 ## 26 - Stripe follow along nav
 - Use && to do a task if first one is returns true
 
