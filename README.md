@@ -85,6 +85,9 @@ This repository was created to store all the exercises I am doing from the JavaS
 ## 18 - Adding up times with Reduce
 - Destructuring assignment
 
+## 21 - Geolocation
+- !!! Only doable on IOS
+
 ## 22 - Follow along link highlighter
 - .getBoundingClientRect()
 
