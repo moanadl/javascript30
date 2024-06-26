@@ -85,6 +85,11 @@ This repository was created to store all the exercises I am doing from the JavaS
 ## 18 - Adding up times with Reduce
 - Destructuring assignment
 
+## 20 - Speech Detection
+- This task was a real challenge. Not for itself, but because I've had a lot of trouble with the use of the mic with the Live Server.
+- In the end, it was a very useful task because I learned to generate a private key and a CSR with OpenSSL and to configure https on the Live Server extension. 
+- After that I've had quite a fun time doing the task itself.
+
 ## 21 - Geolocation
 - !!! Only doable on IOS
 
