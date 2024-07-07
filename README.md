@@ -1,6 +1,6 @@
 # JavaScript30 Challenge
 
-This repository was created to store all the exercises I am doing from the JavaScript30 Challenge. I am using this challenge to perfect my skills on JavaScript Vanilla and learn new things and tools.
+This repository was created to store all the exercises I am doing from the JavaScript30 Challenge. I am using this challenge to perfect my skills on JavaScript Vanilla and learn new things and tools
 
 # Main learning points
 
@@ -16,7 +16,7 @@ This repository was created to store all the exercises I am doing from the JavaS
 - Audio only plays after there is an interaction with the page. It doesn't initiates with the setInterval alone
 
 ## 03 - Playing with CSS Variables and JS
-- Watching the solution shown in the video I've discovered the document.documentElement, although I haven't used it in my solution.
+- Watching the solution shown in the video I've discovered the document.documentElement, although I haven't used it in my solution
 
 ## 04 - Array cardio day 1
 - Better understanding of sort() and reduce()
@@ -95,15 +95,18 @@ This repository was created to store all the exercises I am doing from the JavaS
 - event 'canplay'
 
 ## 20 - Speech Detection
-- This task was a real challenge. Not for itself, but because I've had a lot of trouble with the use of the mic with the Live Server.
-- In the end, it was a very useful task because I learned to generate a private key and a CSR with OpenSSL and to configure https on the Live Server extension. 
-- After that I've had quite a fun time doing the task itself.
+- This task was a real challenge. Not for itself, but because I've had a lot of trouble with the use of the mic with the Live Server
+- In the end, it was a very useful task because I learned to generate a private key and a CSR with OpenSSL and to configure https on the Live Server extension
+- After that I've had quite a fun time doing the task itself
 
 ## 21 - Geolocation
 - !!! Only doable on IOS
 
 ## 22 - Follow along link highlighter
 - .getBoundingClientRect()
+
+## 23 - SpeechSynthesis
+- Web Speech API's interface SpeechSynthesis and all its methods
 
 ## 24 - Sticky nav
 - Give preference to add styles to class and add class to element than to add styles with JS
@@ -130,5 +133,5 @@ This repository was created to store all the exercises I am doing from the JavaS
 - Access value of data attribute by "dataset.[attribute's name]"
 
 ## 30 - Whack a mole
-- It hasn't show me any new tools/methods, but it has taken a lot of time for me to understand how I could make the game work and a lot of attention to details.
+- It hasn't show me any new tools/methods, but it has taken a lot of time for me to understand how I could make the game work and a lot of attention to details
 - It was quite a challenge
